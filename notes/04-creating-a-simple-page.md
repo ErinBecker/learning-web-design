@@ -27,6 +27,9 @@ attribute - instructions that clarify or modify an element
 - attribute syntax:
     <element attributename="value">
 - attribute order within an element is not important
+- src and alt attributes are required for img elements
+- src gives location of image file
+- alt gives text to display if image is not available
 
 
 ## Minimal structure of all HTML documents
